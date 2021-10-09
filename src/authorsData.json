@@ -1,0 +1,140 @@
+{
+  "topics": [
+    {
+      "topic": "Food",
+      "topicCver": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZCUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Travel",
+      "topicCver": "https://images.unsplash.com/photo-1500835556837-99ac94a94552?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Life style",
+      "topicCver": "https://images.unsplash.com/photo-1589578036109-592d4dadb148?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlmZSUyMHN0eWxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Fitness",
+      "topicCver": "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zml0bmVzc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Sports",
+      "topicCver": "https://images.unsplash.com/photo-1484482340112-e1e2682b4856?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHNwb3J0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Finance",
+      "topicCver": "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZpbmFuY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Political",
+      "topicCver": "https://images.unsplash.com/photo-1577602702507-19122348a7fc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHBvbGl0aWNhbHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Parenting",
+      "topicCver": "https://images.unsplash.com/photo-1589229381557-28001bdff2b0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fHBhcmVudGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Business",
+      "topicCver": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJ1c2luZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "Cars",
+      "topicCver": "https://images.unsplash.com/photo-1493238792000-8113da705763?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "topic": "News",
+      "topicCver": "https://images.unsplash.com/photo-1478940020726-e9e191651f1a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG5ld3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Matera, Basilicata, Italy – from shame to Bond fame",
+      "subTitle": "There’s a tiny corner in Southern Italy that has only recently come out of the shadows. Much maligned as recently as 50 years ago as “The shame of Italy”, Matera, the ancient revamped capital of Basilicata, with its magnificent rocky cavernous landscape and its troglodyte dwellings,",
+      "cover": "https://www.thetravelmagazine.net/wp-content/uploads/Matera-seen-from-Civita-da-S.-Maria-di-Idris-1200x800.jpg"
+    },
+    {
+      "title": "Take a ferry from Dover to Calais and visit these five pretty towns in Northern France",
+      "subTitle": "It is only 26 miles that separates Blighty from its Gallic neighbour. That means you can bundle your family into your car and hop on a ferry at Dover or catch the Eurotunnel from Folkestone and within 90 minutes you can hop off at Calais.",
+      "cover": "https://images.unsplash.com/photo-1468412526475-8cc70299f66f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG93bnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "How to check the quality of protein you are consuming",
+      "subTitle": "One nutrient that deserves to be talked about more extensively in today’s time is protein. Because deficiency of this macronutrient is most common and can harm us in multiple ways. We need protein for building muscle mass,",
+      "cover": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZCUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "​You are what your food is fed!",
+      "subTitle": "If we are really what we eat, we are also what our food is fed! Just as for vegetarian sources of food, we’re increasingly cognizant of how the food is grown similarly, for animal food sources we need to be more aware of the feed that is used.",
+      "cover": "https://images.unsplash.com/photo-1501286353178-1ec881214838?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YW5pbWFscyUyMGZvb2R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "Stock futures flat heading into first full week of trading in October",
+      "subTitle": "U.S. stock futures were little changed in overnight trading on Sunday as investors readied for the first full week of trading in October and the fourth quarter.",
+      "cover": "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zml0bmVzc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "Why California is shutting down its last nuclear plant",
+      "subTitle": "As blackouts and flex hours roil California, the state and the local utility responsible for its last nuclear power plant, Diablo Canyon, are pushing ahead with plans to shut it down.",
+      "cover": "https://images.unsplash.com/photo-1515896769750-31548aa180ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FsaWZvcm5pYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "Defiant Young Children and Toddlers: 5 Things Not to Do",
+      "subTitle": "Do you ever find yourself wondering, “When will this child stop defying me and start doing what I ask?” “I won’t do it!”...“You can’t make me!”...“I’m not going!” It can be incredibly frustrating, ",
+      "cover": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2hpbGR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "Young Kids with ODD: Is It Oppositional Defiant Disorder or Just Bratty Behavior?",
+      "subTitle": "If your young child is behaving in a way that is oppositional or defiant, you’ve probably heard one or more of these phrases from family, friends, teachers or the lady in line behind you at the grocery store.",
+      "cover": "https://images.unsplash.com/photo-1504494701988-c068aedece14?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhZCUyMGNoaWxkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "Fuel issues persist in south but 'over' elsewhere",
+      "subTitle": "The Petrol Retailers Association (PRA) said it hoped the Army driving tankers would help increase fuel deliveries. But it said the 'crisis is virtually at an end' in Scotland, Wales, the North and Midlands.",
+      "cover": "https://ichef.bbci.co.uk/news/976/cpsprodpb/9F74/production/_120802804_mediaitem120802803.jpg"
+    },
+    {
+      "title": "Clean energy from the fastest moving objects on earth",
+      "subTitle": "\"You might want to cover your ears,\" a senior engineer at First Light Fusion tells me, as we gaze at a bank of screens that looks like a mini version of a Nasa control room. I reach for some ear plugs.",
+      "cover": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZW5lcmd5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
+    },
+    {
+      "title": "Chinese air quality regulations could put an end to 'new car smell'",
+      "subTitle": "Air pollutants that generate “new car smell” have been found at levels up to 10 times regulatory limits inside some models.",
+      "cover": "https://images.newscientist.com/wp-content/uploads/2019/12/30163347/gettyimages-1081759914.jpg?width=778"
+    },
+    {
+      "title": "No plugs needed: How wireless charging could set electric cars free",
+      "subTitle": "The rise of wireless charging for electric cars means you may never have to worry about plugging in again",
+      "cover": "https://images.newscientist.com/wp-content/uploads/2019/02/12120849/094_wireless_charge.jpg?width=778"
+    }
+  ],
+  "authors": [
+    {
+      "name": "William Brown",
+      "picture": "https://images.generated.photos/7hE5d5Gzhs2L2hhAmuF5xtBODRu7cCtRCaqwEFiK0lI/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODEyMzIwLmpwZw.jpg"
+    },
+    {
+      "name": "Jeffrey R. Butler",
+      "picture": "https://images.generated.photos/QzVBZDkL5DDxCK_PVPiTEeEgIacJ-uXGicTQZjYYCDQ/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Nzk3MTg0LmpwZw.jpg"
+    },
+    {
+      "name": "Ernest W. Langner",
+      "picture": "https://images.generated.photos/-djvdjo4IdSUG8Wu7WZx3Akz7WIJH1Ah-Qcut8-63Xk/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NzkxNTE5LmpwZw.jpg"
+    },
+    {
+      "name": "Derek M. Mullins",
+      "picture": "https://images.generated.photos/9a60i07zIZoo7DHoNry00XxzEHPdarYiUU0lKhLmCUw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODcxODQwLmpwZw.jpg"
+    },
+    {
+      "name": "Brian A. Dorn",
+      "picture": "https://images.generated.photos/NWLOPSC2kc3No9PP625tjeS10zSTEwPsD1_QpXpHXmk/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDA3MDIwLmpwZw.jpg"
+    },
+    {
+      "name": "Ronald H. Evans",
+      "picture": "https://images.generated.photos/pn-4ub1PeBlBuDILgChTqIwjBIMhxm-Ah_rzk9t0GD8/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODUwMDk3LmpwZw.jpg"
+    },
+    {
+      "name": "Joshua C. Schmitt",
+      "picture": "https://images.generated.photos/hpqUlKb0wqNryhQiBSzkxGzz7doieK8LN4bRtMFuQOg/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjA3MTg0LmpwZw.jpg"
+    }
+  ]
+}
